@@ -2,7 +2,7 @@
 
 This is a fleet management software developed for business of my friend.
 
-This has really helped him to keep track of all the Trucks's fuel cost, salary of driver, The current status of the truck.
+This has really helped him to keep track of all the Truck's fuel cost, salary of driver, The current status of the truck.
 Also now he can keep the track of all the data according to the truck number for a particular month. 
 Also he can track the repair done for the truck.
 
